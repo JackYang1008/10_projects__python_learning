@@ -4,4 +4,4 @@
 ![avatar](figure/fig.png)
 
 数据描述：在Proj5/data.xlsx中，第一列是波长（nm），第2列--第16列是15条PL光谱值。
-![avatar](figure/fig.jpg)
+![avatar](figure/fig.JPG)

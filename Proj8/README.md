@@ -9,4 +9,4 @@
 
 
 数据描述：第一列YearsExperience是工作经验年限（年），第二列Salary是工资（元/月），本项目的要求是构建机器学习模型来通过工作经验来预测工资。
-![avatar](figure/figure.jpg)
+![avatar](figure/figure.JPG)

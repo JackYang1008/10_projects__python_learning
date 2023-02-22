@@ -7,4 +7,4 @@
 - 使用 NumPy 库计算工作经验和工资之间的相关系数，以判断它们之间的相关性；
 
 数据描述：第一列YearsExperience是工作经验年限（年），第二列是工资（元/月）
-![avatar](figure/figure.jpg)
+![avatar](figure/figure.JPG)
